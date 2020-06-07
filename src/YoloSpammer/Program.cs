@@ -86,7 +86,7 @@ namespace YoloSpammer
 
                 if (response.IsSuccessStatusCode)
                 {
-                    Console.WriteLine($"Successfully send #{i + 1}");
+                    Console.WriteLine($"Successfully sent #{i + 1}");
                 }
                 else
                 {
